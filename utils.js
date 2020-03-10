@@ -29,12 +29,6 @@ class Utils {
         console.log(`Target day: ${nearestFirstFoundDay}`) ;
     };
 
-
-
-
-
-
-
 }
 
 module.exports = new Utils()
