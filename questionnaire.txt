@@ -1,0 +1,30 @@
+
+Questionnaire
+ 
+1. What experience in spoken and written English do you have?
+        I have intermediate English level. On previous projects I had meetings with customers on English. 
+        All documentation was on English. Also, last summer, I spent a time with my fellows from Australia 
+        and durring all week a have speaking practice.
+
+2. Do you have test automation experience with JavaScript?
+        Yes. I have experience in JavaScript automation for about two years 
+
+3. Which testing levels (layers) and testing types you are familiar with/have performed?
+        Theoretically, I am familiar with all types of testing. In practice, I tested the functionality 
+        and interface of applications, automated regression tests
+
+4. Which tools did you use for testing purposes?
+        If we talk about tools in automation, I worked with the following:
+        last project- CodeceptJS / Testcafe / Mocha / Chai / CucumberStudio (Hiptest);
+        previous project- Protractor/ Selenium / Jasmine / TestRail;
+        also, like additional tools - Spectron, WebdriverIO
+
+5. Do you have experience in network settings configuration and debugging network issues?
+        No
+
+6. Do you have experience with Unix?
+        Only with Ubuntu
+
+7.  How do you evaluate your troubleshooting skills?
+        I think, my troubleshooting skills are good
+
